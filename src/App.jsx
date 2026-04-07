@@ -113,7 +113,7 @@ function useTyping(words, speed = 80, pause = 1800) {
   return display;
 }
 
-// ─── SCROLL PROGRESS ────────
+// ─── SCROLL PROGRESS ───────
 
 
 function ScrollProgress() {
